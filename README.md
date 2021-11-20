@@ -2,7 +2,7 @@
 
 APP Cálculo IMC
 
-Projeto feito em Flutter
+Projeto desenvolvido em Flutter
 
 ## Getting Started
 
